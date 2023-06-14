@@ -123,7 +123,7 @@
    - O React permite definir componentes como classes ou funções. Componentes definidos como classes fornecem mais recursos. Eles aceitam entradas arbitrárias (chamadas "props") e retornam elementos React descrevendo o que deve aparecer na tela.
    - Para que servem e como funcionam componentes
    - Conhecer a biblioteca Styled Components
-- [ ] **Node.js - ORM**:
+- [x] **Node.js - ORM**:
    - Object-Relational Mapping (ORM), em português, mapeamento objeto-relacional, é uma técnica utilizada para fazer o mapeamento entre sistemas orientados a objetos e bancos de dados relacionais, onde as tabelas do banco de dados são representadas em classes e os registros das tabelas seriam instâncias dessas classes.
    - Entender o que são ORMs e para que são utilizados
    - Conhecer o SQL e seus gerenciadores de bancos de dados
